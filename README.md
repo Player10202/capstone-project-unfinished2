@@ -1,1 +1,2 @@
-# capstone-project-unfinished2
+# C39RV_SpeedRacer_TeacherActivity
+Teacher Activity
